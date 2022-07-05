@@ -2,10 +2,10 @@
 
 
 ### Justificativa
-Alguma coisa aqui
+promover uma otimização na utilização da Blibioteca 
 
 ### Descrição do produto
-Alguma coisa aqui
+Código para facilitar a utilização da Biblioteca 
 
 ### Especificação do papel de cada membro
-Alguma coisa aqui `@prof`
+Todos os Membros ajudaram na produção do código, com destaques na escrita do código: @Carlos, @MariaClara, @Eduarda; destaques em procurar informações: @Rômulo, @Bárbara; com apoio e ajuda: @profBreno
